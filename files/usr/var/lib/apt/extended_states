@@ -1,0 +1,32 @@
+Package: libcrypt
+Architecture: x86_64
+Auto-Installed: 1
+
+Package: libsqlite
+Architecture: x86_64
+Auto-Installed: 1
+
+Package: libffi
+Architecture: x86_64
+Auto-Installed: 1
+
+Package: ncurses-ui-libs
+Architecture: x86_64
+Auto-Installed: 1
+
+Package: gdbm
+Architecture: x86_64
+Auto-Installed: 1
+
+Package: libutil
+Architecture: x86_64
+Auto-Installed: 1
+
+Package: pcre2
+Architecture: x86_64
+Auto-Installed: 1
+
+Package: less
+Architecture: x86_64
+Auto-Installed: 1
+

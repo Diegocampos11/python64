@@ -1,0 +1,10 @@
+
+Start-Date: 2019-03-26  21:52:23
+Commandline: apt install python
+Install: libcrypt:x86_64 (0.2-1, automatic), libsqlite:x86_64 (3.27.2, automatic), libffi:x86_64 (3.2.1-2, automatic), ncurses-ui-libs:x86_64 (6.1.20181117-1, automatic), gdbm:x86_64 (1.18.1, automatic), python:x86_64 (3.7.2-2), libutil:x86_64 (0.4, automatic)
+End-Date: 2019-03-26  21:52:35
+
+Start-Date: 2019-03-26  22:05:39
+Commandline: apt install git
+Install: pcre2:x86_64 (10.32, automatic), git:x86_64 (2.21.0), less:x86_64 (530-2, automatic)
+End-Date: 2019-03-26  22:05:41

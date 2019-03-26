@@ -1,0 +1,7 @@
+defc79b67fb30b71e66d6bdd1c4317b7  data/data/com.termux/files/usr/share/man/man1/gdbm_load.1
+a99fd76b4aa43968169d84e2ea477d5c  data/data/com.termux/files/usr/share/man/man1/gdbmtool.1
+8795807c63c299cfce2a56128d7cae4e  data/data/com.termux/files/usr/share/man/man1/gdbm_dump.1
+a625de02a837d3a51827377477bc3f28  data/data/com.termux/files/usr/bin/gdbmtool
+d9f30cc14140dcf440e9089c4c7dd40c  data/data/com.termux/files/usr/bin/gdbm_load
+5317fd31b5a50cb27b0cb5a13ffe3e0a  data/data/com.termux/files/usr/bin/gdbm_dump
+f3454904657983c2fa693f4c1b3ff4f6  data/data/com.termux/files/usr/lib/libgdbm.so.6.0.0

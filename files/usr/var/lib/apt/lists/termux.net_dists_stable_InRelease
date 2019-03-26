@@ -1,0 +1,32 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Codename: stable
+Version: 1
+Architectures: all arm i686 aarch64 x86_64
+Description: Main repository
+Suite: stable
+Date: Sun, 24 Mar 2019 22:57:05 UTC
+Acquire-By-Hash: yes
+SHA256:
+ ffa996e2a05d48f6d6f99ae7ee0198bf23af931c007ae2c1f528fd6c7d20e8ee 20511 main/binary-all/Packages
+ e3a67d1298c422a95ca0c5af65b561f746122970e078c25f763e8d01db381c4a 6064 main/binary-all/Packages.xz
+ 4e1f594ac06e75ae3ea1487b07aa76182f80f5702c44edb6ea796d1fb1a73b43 299931 main/binary-arm/Packages
+ 7f24859d6bc1edd53664cb601a823b2011318e52a67b63610e72bd3139c5cf36 66972 main/binary-arm/Packages.xz
+ 54df2d360573fc650adae7e585a3e67103ae1580f3fa1c9c046ace87b228f1b5 301556 main/binary-i686/Packages
+ 28cab44953f51c14ed05f7515a8adc5e64e335ea57ace2731108fe67cba23a48 66848 main/binary-i686/Packages.xz
+ 13f9163fd40e6c7235c2499c89abb9db2285c43fd178767d62f8daff87f0699b 309574 main/binary-aarch64/Packages
+ cae253c0415bb21804dfb223ad6a99a1841c98be41f0bd54046cfce98fe9c841 67232 main/binary-aarch64/Packages.xz
+ 55766d5164de781ab3ea69f8951a0450e04f9fd32650d10563b41b2903ba897e 306235 main/binary-x86_64/Packages
+ 2af4759836f70b56a6692abd2c3a64cb4f71f9ad17a22274dae65c9c0f6bcfe1 66960 main/binary-x86_64/Packages.xz
+-----BEGIN PGP SIGNATURE-----
+
+iQEzBAEBCAAdFiEEIhiJPT9nm+/EIf2XZwC3fm2NCucFAlyYC3IACgkQZwC3fm2N
+CufsPQf/ULg7eY2aRDWBBkY6E1AxqRTA4mPV5xsfS8wFK6WLHHSPDZ/9kYVw3FgK
+iKJ7FhuO3OcCu3vnX6yUvfg0ChL9AkEspJfB+xecldZm9WnbVJ2SYvvIdTMDGeJf
+j9Zz5salFffvyjQOs9bGGx/B7tDQyW90BzXz+tYitq1cnhZQAw/XF2Zs7zEv6G85
+nrx/FilN8qDDu3d+Q9TboXwDYZv3kR/xjqjo+wZlf213zmZoRbKEHHfx27Dq0gxF
+x30GbpQYu+GVCqy5CVDNcHQFWOZL4AQcDtz74dEtM5oV1v8rk/3OYmZxcmuWznH4
+rT+ZgsuaSyRqEGSGl65miVUvf3wWGA==
+=Jhw7
+-----END PGP SIGNATURE-----
